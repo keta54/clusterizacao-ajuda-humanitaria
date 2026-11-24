@@ -1,0 +1,14 @@
+country,grupo_kmeans,grupo_ward_nome,silhueta
+Equatorial Guinea,B · Vulnerabilidade estrutural,A · Crise humanitária,0.065
+Iceland,"C · Baixa necessidade, inflação alta",D · Desenvolvidos e estáveis,0.016
+Iran,"C · Baixa necessidade, inflação alta",B · Vulnerabilidade estrutural,0.088
+Kazakhstan,"C · Baixa necessidade, inflação alta",B · Vulnerabilidade estrutural,0.099
+"Macedonia, FYR",B · Vulnerabilidade estrutural,D · Desenvolvidos e estáveis,0.056
+Malta,"C · Baixa necessidade, inflação alta",D · Desenvolvidos e estáveis,-0.019
+Nepal,A · Crise humanitária,B · Vulnerabilidade estrutural,0.017
+Norway,"C · Baixa necessidade, inflação alta",D · Desenvolvidos e estáveis,0.031
+Solomon Islands,A · Crise humanitária,B · Vulnerabilidade estrutural,0.071
+Sri Lanka,"C · Baixa necessidade, inflação alta",B · Vulnerabilidade estrutural,0.028
+Tajikistan,A · Crise humanitária,B · Vulnerabilidade estrutural,0.232
+Timor-Leste,A · Crise humanitária,B · Vulnerabilidade estrutural,0.271
+Venezuela,"C · Baixa necessidade, inflação alta",B · Vulnerabilidade estrutural,0.176

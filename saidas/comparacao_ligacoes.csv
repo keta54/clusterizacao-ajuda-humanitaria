@@ -1,0 +1,5 @@
+ligação,tamanhos,silhueta,ARI vs K-Means,NMI vs K-Means
+ward,"[58, 48, 41, 20]",0.326,0.81,0.79
+complete,"[93, 33, 29, 12]",0.254,0.43,0.6
+average,"[108, 56, 2, 1]",0.296,0.38,0.49
+single,"[164, 1, 1, 1]",0.112,0.0,0.04

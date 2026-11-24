@@ -1,0 +1,4 @@
+scaler,silhueta k=4,ARI vs z-score
+Min-Max,0.347,0.747
+Z-score,0.353,1.0
+Robust,0.343,0.987
